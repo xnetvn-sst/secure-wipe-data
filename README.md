@@ -57,16 +57,16 @@ This script provides a multi-layered, defense-grade secure data sanitization pro
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
+    git clone https://github.com/xnetvn-sst/secure-wipe-data.git
     cd your-repo-name
     ```
 
 2.  **Review the script:**
-    Open `secure_wipe_script.sh` and read through it to understand exactly what it does.
+    Open `secure_wipe_data_script.sh` and read through it to understand exactly what it does.
 
 3.  **Execute with root privileges:**
     ```bash
-    sudo bash secure_wipe_script.sh
+    sudo bash secure_wipe_data_script.sh
     ```
 
 4.  **Confirm the Action:**
@@ -137,16 +137,16 @@ Kịch bản này cung cấp một quy trình vệ sinh dữ liệu an toàn đa
 
 1.  **Sao chép kho chứa:**
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
+    git clone https://github.com/xnetvn-sst/secure-wipe-data.git
     cd your-repo-name
     ```
 
 2.  **Xem lại kịch bản:**
-    Mở tệp `secure_wipe_script.sh` và đọc qua để hiểu chính xác nó làm gì.
+    Mở tệp `secure_wipe_data_script.sh` và đọc qua để hiểu chính xác nó làm gì.
 
 3.  **Thực thi với quyền root:**
     ```bash
-    sudo bash secure_wipe_script.sh
+    sudo bash secure_wipe_data_script.sh
     ```
 
 4.  **Xác nhận hành động:**
