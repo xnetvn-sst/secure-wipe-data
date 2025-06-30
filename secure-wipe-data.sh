@@ -2,7 +2,7 @@
 
 # ==============================================================================
 # SECURE DATA WIPE SCRIPT - OPTIMIZED VERSION
-# Author: Based on a script by xnet-vn and refined by Copilot
+# Author: Based on a script by xnetvn
 #
 # WARNING: This script will IRREVERSIBLY DESTROY ALL DATA!
 # Only run on servers that are being decommissioned.
