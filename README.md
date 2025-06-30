@@ -1,6 +1,6 @@
 # Secure Data Wipe Script
 
-**English** | [**Tiếng Việt**](#secure-data-wipe-script- phiên-bản-tiếng-việt)
+**English**
 
 ---
 
@@ -58,7 +58,7 @@ This script provides a multi-layered, defense-grade secure data sanitization pro
 1.  **Clone the repository:**
     ```bash
     git clone https://github.com/xnetvn-sst/secure-wipe-data.git
-    cd your-repo-name
+    cd secure-wipe-data
     ```
 
 2.  **Review the script:**
@@ -91,7 +91,7 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for d
 ## Secure Data Wipe Script (Phiên bản Tiếng Việt)
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=CẢNH%20BÁO&message=CỰC%20KỲ%20NGUY%20HIỂM&color=red&style=for-the-badge" alt="Cảnh báo Cực kỳ Nguy hiểm"/>
+  <img src="https://img.shields.io/static/v1?label=WARNING&message=EXTREMELY%20DESTRUCTIVE&color=red&style=for-the-badge" alt="Extremely Destructive Warning"/>
 </p>
 
 ## 1. Cảnh báo Tuyệt đối: Đọc kỹ trước khi Tiếp tục
@@ -138,7 +138,7 @@ Kịch bản này cung cấp một quy trình vệ sinh dữ liệu an toàn đa
 1.  **Sao chép kho chứa:**
     ```bash
     git clone https://github.com/xnetvn-sst/secure-wipe-data.git
-    cd your-repo-name
+    cd secure-wipe-data
     ```
 
 2.  **Xem lại kịch bản:**
